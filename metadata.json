@@ -1,0 +1,6 @@
+{
+  "name": "SIMS - ระบบจัดการฝึกงานนักศึกษา",
+  "description": "Student Internship Management System (SIMS) - ระบบบริหารจัดการระบบฝึกงานของนักศึกษา ค้นหาสถานที่ตั้ง แผนที่ พร้อมวิเคราะห์แดชบอร์ด และระบบบัดทึกข้อมูล",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
